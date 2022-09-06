@@ -1,0 +1,103 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Martín ",
+      "surnames": "García Fuentes ",
+      "title": "Software Engineer",
+      "description": "Siempre me ha fascinado el mundo de la tecnología, saber como funciona y como nos puede ayudar a mejorar en nuestro dia a dia. Me encanta trabajar en equipo, considero que es una de las mejores formas para aprender cosas nuevas y para poder mejorar. Siempre busco aprender nuevas tecnologías.",
+      "location": {
+        "notes": "Madrid"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "Https://linkedin.com/in/martín-garcía-fuentes"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
