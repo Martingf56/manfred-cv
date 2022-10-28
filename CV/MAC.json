@@ -11,9 +11,63 @@
       "title": "Software Engineer",
       "description": "Siempre me ha fascinado el mundo de la tecnología, saber como funciona y como nos puede ayudar a mejorar en nuestro dia a dia. Me encanta trabajar en equipo, considero que es una de las mejores formas para aprender cosas nuevas y para poder mejorar. Siempre busco aprender nuevas tecnologías.",
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     }
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Desarrollo de un CRM Dynamics 365",
+          "description": "Fue un proyecto para desarrollar un CRM Ad-hoc, con el módulo de Customer Services de Dynamics 365, para una empresa importante en el mundo de la aeronáutica.\nEncargado del desarrollo de las personalizaciones a nivel de plugins(.Net) y del cliente (Javacript). Trabajé en el mantenimiento de los cluster de los servidores y las BBDD al tratarse de una instalación on-premise.\n"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-08-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "IIS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "knowledge": {
     "languages": [
@@ -121,6 +175,12 @@
           "name": "React",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     }
   }
