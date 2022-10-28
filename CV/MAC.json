@@ -21,7 +21,7 @@
     "projects": [
       {
         "details": {
-          "name": "Desarrollo de un CRM Dynamics 365",
+          "name": "Desarrollo de un CRM con Dynamics 365",
           "description": "Fue un proyecto para desarrollar un CRM Ad-hoc, con el módulo de Customer Services de Dynamics 365, para una empresa importante en el mundo de la aeronáutica.\nEncargado del desarrollo de las personalizaciones a nivel de plugins(.Net) y del cliente (Javacript). Trabajé en el mantenimiento de los cluster de los servidores y las BBDD al tratarse de una instalación on-premise.\n"
         },
         "type": "sideProject",
