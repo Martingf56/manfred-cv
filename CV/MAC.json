@@ -160,6 +160,26 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MB-200 Microsoft Power Platform + Dynamics 365 Core",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Passing exam MB-200* validates skills and knowledge to configure Microsoft Dynamics 365 to meet client needs, perform design tasks related to implementing new features and functionality, and implement and test system changes. Candidates plan the functional design for solutions, implement an application lifecycle management (ALM) process, migrate data and objects from legacy and external systems, integrate Power Platform with other systems, and manage Power Platform environment. "
+        },
+        "linkedCompetences": [
+          {
+            "name": "CRM",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Dymanics 365",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingerniería Informática",
