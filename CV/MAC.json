@@ -133,25 +133,31 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Dymanics 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CRM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IIS",
           "type": "technology"
         }
       }
