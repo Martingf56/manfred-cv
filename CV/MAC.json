@@ -10,6 +10,10 @@
       "surnames": "García Fuentes ",
       "title": "Software Engineer",
       "description": "Siempre me ha fascinado el mundo de la tecnología, saber como funciona y como nos puede ayudar a mejorar en nuestro dia a dia. Me encanta trabajar en equipo, considero que es una de las mejores formas para aprender cosas nuevas y para poder mejorar. Siempre busco aprender nuevas tecnologías.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/13/8a4aa14c-94fa-4a27-be48-854009a654a8_img_20231007_120615.jpg",
+        "alt": "IMG_20231007_120615.jpg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
