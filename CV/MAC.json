@@ -32,7 +32,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Viewnext"
+          "name": "Viewnext",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/13/98b7378e-7dcd-421a-abe2-7036c79a306c_logo_viewnext_blanco.png",
+            "alt": "Logo_Viewnext_Blanco_250px.png"
+          }
         },
         "roles": [
           {
