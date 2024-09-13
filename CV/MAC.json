@@ -32,6 +32,52 @@
     "jobs": [
       {
         "organization": {
+          "name": "Viewnext"
+        },
+        "roles": [
+          {
+            "name": "CRM Dynamics 365 y .Net Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Actualmente, trabajo como desarrollador en Viewnext, una consultora tecnológica que ofrece soluciones a medida para distintos clientes. Mi rol principal consiste en el desarrollo y mantenimiento de aplicaciones sobre la plataforma Microsoft Dynamics 365, enfocándome en crear nuevas funcionalidades y asegurando el correcto funcionamiento de las aplicaciones existentes.\n\nUtilizo una amplia gama de tecnologías, entre las que destacan .NET, C#, JavaScript, ASP.NET, y metodologías como SOAP, API REST y servicios web. También hago uso de herramientas de automatización como Power Apps, Power Automate y Power FX.\n\nActualmente, gestiono mis proyectos de forma independiente, trabajando directamente con el cliente, lo que me otorga un alto nivel de autonomía en la organización de tareas y la toma de decisiones. Para llevar un control eficiente de las actividades, utilizo tableros Kanban, lo que facilita la visualización del estado de las tareas y la planificación de las entregas.\n\nHe tenido la oportunidad de colaborar con sectores diversos, como el sector público, pero mi experiencia más extensa ha sido en el sector deportivo. En el ámbito del mantenimiento, me encargo tanto de la corrección de bugs como del desarrollo de nuevas funcionalidades y automatizaciones. Además, suelo proponer mejoras y optimizaciones que permitan a las aplicaciones evolucionar de manera continua, siempre alineándome con las necesidades del cliente."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Dynamics 365",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power Automate",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power Plataform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Airbus Defence and Space"
         },
         "roles": [
