@@ -311,7 +311,12 @@
         }
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Me gustaría trabajar en un sitio con un buen equipo del que pueda aprender y seguir desarrollandome en mi carrera profesional. Tener la posibiladad de trabajar con diferentes tecnologías."
