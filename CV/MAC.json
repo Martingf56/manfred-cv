@@ -1,20 +1,20 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Martín ",
+      "name": "Martín",
       "surnames": "García Fuentes ",
       "title": "Software Engineer",
-      "description": "",
+      "description": "Siempre me ha fascinado el mundo de la tecnología, saber como funciona y como nos puede ayudar a mejorar en nuestro dia a dia. Me encanta trabajar en equipo, considero que es una de las mejores formas para aprender cosas nuevas y para poder mejorar. Siempre busco aprender nuevas tecnologías.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -62,7 +62,7 @@
                 "type": "technology"
               },
               {
-                "name": "Microsoft Dymanics 365",
+                "name": "Microsoft Dynamics 365",
                 "type": "technology"
               },
               {
@@ -82,61 +82,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": ".NET",
@@ -145,7 +106,13 @@
       },
       {
         "skill": {
-          "name": "Microsoft Dymanics 365",
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
           "type": "technology"
         }
       },
@@ -160,6 +127,42 @@
           "name": "IIS",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Dynamics 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -169,8 +172,7 @@
         "name": "IBM Data Science",
         "startDate": "2022-03-01",
         "institution": {
-          "name": "IBM Coursera",
-          "description": ""
+          "name": "IBM Coursera"
         },
         "linkedCompetences": [
           {
@@ -183,6 +185,50 @@
           },
           {
             "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingerniería Informática",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Universidad Complutense"
+        },
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
             "type": "technology"
           }
         ]
@@ -202,55 +248,30 @@
             "type": "technology"
           },
           {
-            "name": "Microsoft Dymanics 365",
+            "name": "Microsoft Dynamics 365",
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingerniería Informática",
-        "startDate": "2016-09-01",
-        "finishDate": "2021-06-01",
-        "institution": {
-          "name": "Universidad Complutense",
-          "description": ""
-        },
-        "linkedCompetences": [
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Spring Boot",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -258,9 +279,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "Https://linkedin.com/in/martín-garcía-fuentes"
+          "URL": "https://github.com/Martingf56",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "martingarfu@gmail.com"
       ]
     },
     "preferences": {
@@ -288,11 +312,13 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "DevOps & Infrastructure & SRE",
         "Frontend Developer",
         "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría trabajar en un sitio con un buen equipo del que pueda aprender y seguir desarrollandome en mi carrera profesional. Tener la posibiladad de trabajar con diferentes tecnologías."
   }
 }
