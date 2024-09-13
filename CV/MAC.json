@@ -304,6 +304,10 @@
         {
           "name": "JavaScript",
           "type": "technology"
+        },
+        {
+          "name": "Microsoft Dynamics 365",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
