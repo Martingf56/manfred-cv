@@ -166,24 +166,6 @@
       },
       {
         "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CRM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "IIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -196,25 +178,19 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Microsoft Power Automate",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Microsoft Power Plataform",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
+          "name": "SQLServer",
           "type": "technology"
         }
       }
@@ -390,6 +366,28 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Dynamics 365",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power Automate",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power Plataform",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar en un sitio con un buen equipo del que pueda aprender y seguir desarrollandome en mi carrera profesional. Tener la posibiladad de trabajar con diferentes tecnologías."
   }
 }
