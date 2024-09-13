@@ -316,6 +316,10 @@
         {
           "name": "Microsoft Dynamics 365",
           "type": "technology"
+        },
+        {
+          "name": "Power Query",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
