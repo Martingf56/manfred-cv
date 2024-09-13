@@ -300,11 +300,10 @@
         {
           "name": "JavaScript",
           "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     },
     "status": "searchingActively",
