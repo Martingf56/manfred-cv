@@ -302,6 +302,10 @@
           "type": "technology"
         },
         {
+          "name": "CRM",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
